@@ -7,10 +7,12 @@
 <img src="https://wakatime.com/share/@2b8e62dc-47d0-49b9-a826-6584ce027a6b/f7e44973-b636-4ad0-ad79-7e03146f6a92.png" width="300" height="200" /></a>
 
 <details>
+  
 <summary> 🌐 Socials: </summary>
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nla.insta) 
 ![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/thisisipexa) 
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ipexatweet) 
+
 </details>
 
 <details>
@@ -32,6 +34,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
+  
 </details>
 
 <details>
@@ -40,16 +43,19 @@
 ![](https://github-readme-stats.vercel.app/api?username=nilasystem&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nilasystem&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nilasystem&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  
 </details>
 
 <details>
 <summary> 🏆 GitHub Trophies </summary>
 ![](https://github-profile-trophy.vercel.app/?username=nilasystem&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+  
 </details>
 
 <details>
 <summary> 😂 Random Dev Meme </summary>
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
+  
 </details>
 
 ---
