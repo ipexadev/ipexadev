@@ -7,7 +7,7 @@
 <img src="https://wakatime.com/share/@2b8e62dc-47d0-49b9-a826-6584ce027a6b/f7e44973-b636-4ad0-ad79-7e03146f6a92.png" width="300" height="200" /></a>
 
 <details>
-<summary> ## 🌐 Socials: </summary>
+<summary> 🌐 Socials: </summary>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nla.insta) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/thisisipexa) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ipexatweet) 
 </details>
 
