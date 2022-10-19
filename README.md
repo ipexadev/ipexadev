@@ -16,6 +16,7 @@
 </details>
 
 <details>
+  
 <summary> 💻 Tech Stack: </summary>
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
@@ -38,6 +39,7 @@
 </details>
 
 <details>
+  
 <summary> 📊 GitHub Stats: </summary>
   
 ![](https://github-readme-stats.vercel.app/api?username=nilasystem&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -47,12 +49,14 @@
 </details>
 
 <details>
+  
 <summary> 🏆 GitHub Trophies </summary>
 ![](https://github-profile-trophy.vercel.app/?username=nilasystem&theme=radical&no-frame=false&no-bg=false&margin-w=4)
   
 </details>
 
 <details>
+  
 <summary> 😂 Random Dev Meme </summary>
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
   
