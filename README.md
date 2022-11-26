@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there%F0%9F%91%8B!;Nilasystem+by+Nico+L.;Scripts;Command+Handler;Templates;STLs;GCODE;And+much+more+Projects!;https%3A%2F%2Fgithub.com%2Fnilasystem;Twitter%3A+%40ipexatweet;Instagram%3A+%40nla.insta;Discord%3A+IPEXA%230510;+Made+with+%E2%9D%A4.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there%F0%9F%91%8B!;Ipexa Dev+by+Nico+L.;Scripts;Command+Handler;Templates;STLs;GCODE;And+much+more+Projects!;https%3A%2F%2Fgithub.com%2Fnilasystem;Twitter%3A+%40ipexatweet;Instagram%3A+%40nla.insta;Discord%3A+IPEXA%230510;+Made+with+%E2%9D%A4.)](https://git.io/typing-svg)
 <br>
 <img src="https://discord.c99.nl/widget/theme-2/642807365695176724.png"/>
 
@@ -43,9 +43,9 @@
   
 <summary> 📊 GitHub Stats: </summary>
   
-![](https://github-readme-stats.vercel.app/api?username=nilasystem&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nilasystem&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nilasystem&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ipexadev&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ipexadev&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ipexadev&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   
 </details>
 
@@ -53,7 +53,7 @@
   
 <summary> 🏆 GitHub Trophies </summary>
   
-![](https://github-profile-trophy.vercel.app/?username=nilasystem&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ipexadev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
   
 </details>
 
@@ -67,4 +67,4 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=nilasystem&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ipexadev&icon=0&color=0)](https://visitcount.itsvg.in)
