@@ -44,9 +44,9 @@
   
 <summary> 📊 GitHub Stats: </summary>
   
-![](https://github-readme-stats.vercel.app/api?username=ipexadev&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ipexadev&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ipexadev&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=nicolaeser&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nicolaeser&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaeser&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   
 </details>
 
@@ -54,7 +54,7 @@
   
 <summary> 🏆 GitHub Trophies </summary>
   
-![](https://github-profile-trophy.vercel.app/?username=ipexadev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=nicolaeser&theme=radical&no-frame=false&no-bg=false&margin-w=4)
   
 </details>
 
