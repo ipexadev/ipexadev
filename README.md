@@ -68,4 +68,5 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=nicolaeser&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=nicolaeser&icon=0&color=0)](https://visitcount.itsvg.in) 
+[![wakatime](https://wakatime.com/badge/user/2b8e62dc-47d0-49b9-a826-6584ce027a6b.svg)](https://wakatime.com/@2b8e62dc-47d0-49b9-a826-6584ce027a6b)
